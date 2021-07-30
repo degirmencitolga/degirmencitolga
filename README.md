@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes & Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/degirmencitolga](https://github.com/degirmencitolga)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/degirmencitolga/degirmencitolga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
