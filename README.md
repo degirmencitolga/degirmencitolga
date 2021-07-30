@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tolga Değirmenci</h1>
-<h3 align="center">I am an Electrical & Electronics Engineering student at Istanbul Sabahattin Zaim University. I am currently working at İZU IEEE IAS Team and learning Kubernetes & Docker</h3>
+<h3 align="center">I am an Electrical & Electronics Engineering student at Istanbul Sabahattin Zaim University. I am currently working at İZU IEEE RAS Team and learning Kubernetes & Docker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degirmencitolga&label=Profile%20views&color=09e452&style=flat" alt="degirmencitolga" /> </p>
 
-- 🔭 I’m currently working on [IEEE IAS TEAM](I am an Electrical & Electronics Engineering student at Istanbul University Cerrahpasa. I am currently working at İÜC IEEE UAV Team and learning Kubernetes & Docker)
+- 🔭 I’m currently working on [IEEE RAS TEAM](I am an Electrical & Electronics Engineering student at Istanbul Sabahattin Zaim University. I am currently working at İZÜ IEEE RAS Team and learning Kubernetes & Docker)
 
 - 🌱 I’m currently learning **Kubernetes & Docker**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/degirmencitolga/degirmencitolga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/degirmencitolga/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
