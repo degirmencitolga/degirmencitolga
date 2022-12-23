@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga Değirmenci</h1>
-<h3 align="center">I am an Electrical & Electronics Engineering student at Istanbul Sabahattin Zaim University. I am currently working at İZU IEEE RAS Team and learning Kubernetes & Docker</h3>
+<h3 align="center">I am new Graduated Electrical and Electronics Engineer. I graduated from Istanbul
+Sabahattin Zaim University. I am trying to improve myself at DevOps. I am open to
+learning and inclined to team work. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degirmencitolga&label=Profile%20views&color=09e452&style=flat" alt="degirmencitolga" /> </p>
 
