@@ -5,7 +5,7 @@ learning and inclined to team work. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degirmencitolga&label=Profile%20views&color=09e452&style=flat" alt="degirmencitolga" /> </p>
 
-- 🔭 I’m currently working on [IEEE RAS TEAM](I am an Electrical & Electronics Engineering student at Istanbul Sabahattin Zaim University. I am currently working at İZÜ IEEE RAS Team and learning Kubernetes & Docker)
+- 🔭 I’m currently working on DevOps Project.
 
 - 🌱 I’m currently learning **Kubernetes & Docker**
 
